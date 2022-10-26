@@ -1,1 +1,2 @@
-1st setup
+caleb curry     our first component - react tutorial 3
+tc 03.07/12.03

@@ -1,9 +1,12 @@
 import './App.css';
+import Employee from './components/Employee';
 
 function App() {
   return (
     <div className="App">
-      <center><a href = "pillu.net"><u>Like Links?</u></a></center>
+      <h3>
+        <Employee></Employee> says somebody clever
+      </h3>
     </div>
   );
 }
