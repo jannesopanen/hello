@@ -1,7 +1,7 @@
 function Employee(props){
     return (
         <>
-            <h3>Employee Name:      {props.name}</h3>
+            <p class="employee">Employee Name:      {props.name}</p>
             {/* <h3>{props.role ? props.role : 'No role assigned.'}</h3> */}
 
             {props.role ? (

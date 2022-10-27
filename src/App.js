@@ -3,6 +3,7 @@ import Employee from './components/Employee';
 
 function App() {
   const showEmployees = true;
+
   return (
     <div className='App'>
       {
@@ -10,7 +11,7 @@ function App() {
           <>          
             <Employee name="Janne Sopanen" role="God"/>
             <Employee name="Chuck Norris"/>
-            <Employee name="Marilyn Manson"/>         
+            <Employee name="Marilyn Manson"/>
           </>
         ) : (
           <>
@@ -20,6 +21,7 @@ function App() {
       }
     </div>
   )
+  
 
 }
 

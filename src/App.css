@@ -1,2 +1,3 @@
-p.norole { font-variant: small-caps; color: blueviolet;}
-p.role {font-variant: small-caps; color:coral;}
+p.norole { font-variant: small-caps; color: blueviolet; background-color: antiquewhite;}
+p.role {font-variant: small-caps; color:coral; background-color:antiquewhite}
+p.employee {font-variant: normal; color: darkslategray; background-color: antiquewhite;}
